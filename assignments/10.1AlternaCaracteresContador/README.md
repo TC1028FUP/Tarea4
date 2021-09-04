@@ -24,7 +24,7 @@ Observa que el primer caracter que se debe mostrar siempre es `#`
 
 ## Entrada
 
-Un valor entero positivo `n`
+Un valor entero positivo `n`, no se deberá desplegar mensaje al usuario.
 
 ## Salida
 Una secuencia de caracteres que muestra el número de renglón y luego un caracter inicia con `#` y alterna entre `#` y `%`. 
@@ -33,7 +33,7 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 
 Ejemplo de ejecución del programa:
 
-Entrada:
+Entrada:  
 7
 
 Salida:
